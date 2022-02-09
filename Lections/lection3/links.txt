@@ -1,0 +1,6 @@
+https://www.slideshare.net/sunilos/collections-framework-55644708
+
+https://www.baeldung.com/java-collections
+
+https://facingissuesonit.com/2019/10/15/java-collection-framework-hierarchy/
+
