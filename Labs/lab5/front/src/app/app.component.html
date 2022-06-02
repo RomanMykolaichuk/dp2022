@@ -1,0 +1,11 @@
+<h1>Hello world!</h1>
+
+<button (click)="getRest()">Get users</button>
+
+<ul>
+    <li *ngFor="let user of users">
+        Title: {{user.name}}, age: {{user.age}}, ref: {{user._links.self.href}}
+    </li>
+</ul>
+
+<!-- <p>{{users[0].name}}</p> -->
